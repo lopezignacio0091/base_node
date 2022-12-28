@@ -1,5 +1,5 @@
-const { crearArchivo } = require("./utils/multiplicar");
-const argv = require("./yargs/yargs");
+const { crearArchivo } = require("./Utils/Multiplicar");
+const argv = require("./Yargs/Yargs");
 console.clear();
 
 // YARGS LIBRERIA QUE CAPTURA COMO OBJETO LO ENVIADO POR LA CONSOLA --BASE 9
